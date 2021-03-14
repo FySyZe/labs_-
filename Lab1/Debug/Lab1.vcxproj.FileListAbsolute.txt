@@ -1,0 +1,4 @@
+C:\Users\lloid\Desktop\Lab1\Debug\Lab1.exe
+C:\Users\lloid\Desktop\Lab1\Debug\Lab1.pdb
+C:\Studing\Lab1\Debug\Lab1.exe
+C:\Studing\Lab1\Debug\Lab1.pdb
